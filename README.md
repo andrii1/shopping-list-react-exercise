@@ -1,2 +1,2 @@
-# shopping-list-react-exercise
+# shopping-list-react
 Created with CodeSandbox
